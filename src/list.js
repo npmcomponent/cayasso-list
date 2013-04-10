@@ -772,4 +772,8 @@ h = {
 
 window.List = List;
 window.ListJsHelpers = h;
+
 })(window);
+
+module.exports = window.List;
+module.exports.Helpers = ListJsHelpers;
