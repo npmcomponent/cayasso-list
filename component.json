@@ -6,9 +6,6 @@
   "author": {
     "name": "Jonny Strömberg"
   },
-  "main": [
-    "src/list.js"
-  ],
   "keywords": [
     "list", 
     "tables",
@@ -18,13 +15,7 @@
     "filter",
     "utility"
   ],
-  "license": [
-    {
-      "type": "MIT"
-    }
-  ],
-  "scripts": [
-    "src/list.js"
-  ],
+  "license": [{ "type": "MIT" }],
+  "scripts": ["src/list.js","index.js"],
   "repo": "https://raw.github.com/cayasso/list"
 }
