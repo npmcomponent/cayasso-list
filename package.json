@@ -1,0 +1,16 @@
+{
+  "name": "cayasso-list",
+  "description": "3 KB cross-browser native JavaScript that makes your plain HTML lists/tables super flexible, searchable, sortable and filterable",
+  "version": "0.2.1",
+  "keywords": [
+    "list",
+    "tables",
+    "listview",
+    "search",
+    "sort",
+    "filter",
+    "utility"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
